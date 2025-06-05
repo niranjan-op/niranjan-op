@@ -39,9 +39,6 @@ Feel free to check out my repositories, leave a ⭐, or reach out for a chat.
 - Portfolio: [Your Portfolio Link](#)
 
  --!>
----
-Thanks for visiting my profile!  
-Feel free to check out my repositories, leave a ⭐, or reach out for a chat.
 
 <!--
 **niranjan-op/niranjan-op** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
