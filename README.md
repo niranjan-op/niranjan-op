@@ -39,13 +39,7 @@ Feel free to check out my repositories, leave a ⭐, or reach out for a chat.
 - Portfolio: [Your Portfolio Link](#)
 
  --!>
-
-## 🌟 Fun Facts
-
-
-
 ---
-
 Thanks for visiting my profile!  
 Feel free to check out my repositories, leave a ⭐, or reach out for a chat.
 
