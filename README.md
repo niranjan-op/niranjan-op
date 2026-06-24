@@ -6,6 +6,8 @@ Welcome to my personal space on GitHub!
 
 ## 🚀 About Me
 
+- A curious student of computer science finding purpose by learning and growing in life.
+- Deeply interested in the field of Artificial Intelligence and Machine Learning.
 - 💡 Always curious about how things work—from hardware to high-level software.
 - 🧩 Problem solver, coder, and tech enthusiast.
 - 🌱 Currently learning: - Machine Learning, Deep Learning, and AI..
@@ -15,16 +17,6 @@ Welcome to my personal space on GitHub!
 - I believe in continuous learning and sharing what I learn.
 
 ---
-
-## 🛠️ Projects
-
-Here are some highlights of what I’ve been working on:
-
-- **[Chat_App](https://github.com/niranjan-op/Chat_App)**  
-  Real-time chat platform built with Python.
-
-- **[Carbon Footprint Analyser](https://github.com/niranjan-op/Carbon-footprint-analyser)**  
-  A tool to estimate and analyze your carbon footprint.
   
 Thanks for visiting my profile!  
 Feel free to check out my repositories, leave a ⭐, or reach out for a chat.
