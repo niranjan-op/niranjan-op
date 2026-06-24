@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Niranjan!
+# ![Waving Hand](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif) Hi, I'm Niranjan!
 
 Welcome to my personal space on GitHub!  
 
